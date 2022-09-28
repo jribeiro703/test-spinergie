@@ -1,0 +1,21 @@
+{
+  "page1": {
+    "initial-Settings": {
+      "coordinates": [10,12],
+      "color": "white"
+    },
+    "available-filters": {
+      "name-filter": {
+        "column": "name",
+        "sort": "desc"
+      }
+    }
+  },
+  "page2": {
+    "initialSettings": {
+      "coordinates": [14,20],
+      "color": "red"
+    },
+    "available-filters": {}
+  }
+}

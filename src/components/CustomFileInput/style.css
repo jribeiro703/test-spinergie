@@ -1,0 +1,19 @@
+.custom-file-input {
+  border: 1px solid #4e2d2d;
+  border-radius: 8px;
+  width: 100%;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  background: #dec5a3;
+  transition: background-color 0.2s;
+}
+.custom-file-input:hover {
+  background: #ecd4ae;
+}
+
+.custom-file-input input {
+  display: none;
+}

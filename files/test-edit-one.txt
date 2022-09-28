@@ -1,0 +1,2 @@
+"page1.initial-Settings.color": "green"
+"page1.available-filters.name-filter.sort": "asc"
